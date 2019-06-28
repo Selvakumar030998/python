@@ -1,7 +1,7 @@
 ch=input() 
 if(ch>='a' or ch<='Z'):
-    print("it is Alphabet")
+    print("Alphabet")
 else:
 
-    print("it is No")
+    print("No")
     
